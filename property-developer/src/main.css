@@ -1,0 +1,76 @@
+body {
+    line-height: 2;
+    background-color: aliceblue
+}
+
+.plot {
+    border: 23%;
+    /* border: 76px; */
+    /* background-color: yellow; */
+    /* border-width: 1px; */
+    /* border-color: white; */
+    border-style: solid;
+    height: 200px;
+    background-image:url('/src/img/house.jpg');
+    background-repeat: no-repeat;
+    /* width: 390px; */
+    /* height: 200px; */
+    background-position: center;
+}
+
+.road-right {
+    /* border-right-width: 15px; */
+    /* border-right-color: gray; */
+}
+
+.road-left {
+    /* border-left-width: 15px; */
+    /* border-left-color: gray; */
+}
+
+.road-top {
+    /* border-top-width: 15px; */
+    /* border-top-color: gray; */
+}
+
+.road-bottom {
+    /* border-bottom-width: 15px; */
+    /* border-bottom-color: gray; */
+}
+
+.badge {
+    margin-top: 5px
+}
+
+.toolbar {
+    right: 15px;
+    bottom: 5px;
+    position: absolute;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.header {
+    background-color: transparent;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.landing {
+    margin: 150px;
+}
+button.btn {
+    border-radius: 15px;
+}
+
+
+/* 0x1e7ACD8830C181720Aa28EEc11551cE3F1963804 */
+/* 0x71b3876aa480e5b9c48374bfea71d53413d5f7b8 */
